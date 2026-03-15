@@ -1,15 +1,11 @@
 # 💫 Hi 👋, I'm Shambhudhan Pal
-**A passionate Full-Stack Developer || AI Enthusiast**
-
-Email Me 👉 ✉️ **shambhudhanpal@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and Machine Learning Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer and AI Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
@@ -18,8 +14,9 @@ Email Me 👉 ✉️ **shambhudhanpal@gmail.com** For Collaboration/Project or A
 - ⚙️ Improving backend development skills with Node.js, Express, and MongoDB while building scalable full-stack applications.
 - 🧪 Experimenting with automation tools and intelligent developer utilities.
 - 🎧 Watching Sports + music = the ultimate coding vibe
-
 <br/>
+
+Email Me 👉 ✉️ **shambhudhanpal@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
