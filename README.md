@@ -16,7 +16,7 @@
 - 🎧 Watching Sports + music = the ultimate coding vibe
 <br/>
 
-Email Me 👉 ✉️ **shambhudhanpal@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+✉️ **shambhudhanpal@gmail.com** — Feel free to reach out for collaborations!!
 
 <!--Languages and Tools Section-->       
 <h2 align="center">Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs</h2> 
