@@ -5,7 +5,7 @@
 </div>
 
 <!--Start Intro-->               
-<p align="left">I am a Full Stack Developer and AI Enthusiast with a huge love for Python, React.js, Node.js, Django, RDBMS, REST API and Data Visualization. </p>
+<p align="left">I am a Full Stack Developer and AI Enthusiast with a huge love for React.js, Node.js, RDBMS, REST API and Data Visualization. </p>
 
 - ✨ Student of life :)
 - 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
