@@ -1,4 +1,18 @@
-# 💫 Hi 👋, I'm Shambhudhan Pal
+<!-- Cyberpunk Gradient Banner with Glitch Effect -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF00FF,50:00FFFF,100:FF00CC&height=300&section=header&text=Shambhudhan%20Pal&fontSize=70&fontColor=FFFFFF&animation=fadeIn&stroke=00FFFF&strokeWidth=2" />
+</p>
+
+<!-- Matrix-Style Dual Typing Effect -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=700&height=70&lines=++%3E_+Building+the+unseen+%3C++;++%3E_+Full+Stack+Architect+%3C++;++%3E_+System+Optimizer+%3C++;++%3E_+404%3A+Sleep+Not+Found+%3C++" />
+</p>
+
+<!-- Neon Pulse Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-2925-4ee0-9976-159fbbbd2d0e.gif" width="800">
+</p>
+
 <!--Night Owl image-->
 <div>
   <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
