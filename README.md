@@ -74,4 +74,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shambhu902&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+<!-- Animated Footer with Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00FF,50:00FFFF,100:FF00CC&height=150&section=footer&text=Let's%20Build%20Something%20Epic&fontSize=24&fontColor=FFFFFF&animation=twinkling" />
+</p>
