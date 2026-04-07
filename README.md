@@ -72,6 +72,9 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Shambhu902&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shambhu902&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+# 📊 LeetCode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/Shambhu902)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shambhu902&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!-- Animated Footer with Wave -->
